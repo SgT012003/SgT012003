@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.discordapp.net/attachments/860502249881337876/1143213097667018943/20230821_125656.jpg?width=498&height=665"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="37" alt="nodejs logo"  />
   <img width="12" />
